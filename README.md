@@ -16,7 +16,7 @@
 - **Ссылка на GitHub**: Интегрированная кнопка перехода в профиль и форма обратной связи.
 
 ## Технические особенности
-- Сверстано с нуля на чистом семантическом **HTML5** и **CSS3** (использованы Flexbox и Grid).
+- Сверстано с нуля на чистом семантическом **HTML** и **CSS** (использованы Flexbox и Grid).
 - Полная адаптивность под мобильные телефоны, планшеты и десктопы (реализована через медиа-запросы `@media`).
 - Интерактив на **JavaScript**:
   - Адаптивное бургер-меню для мобильной версии.
@@ -32,3 +32,6 @@
 - **Телеграм-бот для правильного образа жизни**: [https://t.me/trener25max_bot](https://t.me/trener25max_bot)
 - **Сайт профилактики кибербуллинга среди подростков**: [https://aldiyarkin0165-code.github.io/CyberHelpTeen/](https://aldiyarkin0165-code.github.io/CyberHelpTeen/)
 - **Сайт помощи экологии Казахстана (EcoQazaq)**: [https://aldiyarkin0165-code.github.io/ecoqazaqproject/](https://aldiyarkin0165-code.github.io/ecoqazaqproject/)
+- **Ссылка на видео-обзор сайта**: [https://drive.google.com/file/d/1xTDxTUvnmppPdih1I4tzXclOYTODeklE/view?usp=sharing](https://drive.google.com/file/d/1xTDxTUvnmppPdih1I4tzXclOYTODeklE/view?usp=sharing)
+- **Дополнительно:Деплой через Github Pages**: [https://aldiyarkin0165-code.github.io/projectportfolio/](https://aldiyarkin0165-code.github.io/projectportfolio/)
+
